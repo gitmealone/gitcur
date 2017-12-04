@@ -7,8 +7,17 @@ Modernizr
 media query
 fix the error
 how to get to write "r"
+<<<<<<< HEAD
 Is it the a?.
 We will see!!
 	-a for start
 	esc-:wq to leave
+=======
+-modified in master:
+a to write
+esc/:wq to save and leave
+
+-modified in vim branch:
+this is a bit of a pain
+>>>>>>> master
 
