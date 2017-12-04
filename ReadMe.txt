@@ -13,4 +13,6 @@ esc/:wq to save and leave
 
 -modified in vim branch:
 this is a bit of a pain
+-now in master branch:
+	-modified .added. commited in master b
 
