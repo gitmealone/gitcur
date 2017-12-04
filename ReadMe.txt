@@ -7,4 +7,10 @@ Modernizr
 media query
 fix the error
 how to get to write "r"
+-modified in master:
+a to write
+esc/:wq to save and leave
+
+-modified in vim branch:
+this is a bit of a pain
 
