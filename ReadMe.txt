@@ -20,4 +20,6 @@ esc/:wq to save and leave
 -modified in vim branch:
 this is a bit of a pain
 >>>>>>> master
-
+** ah, see changes in file but says (>>> master...)
+modified now in vim branch added and committed
+done now*<
