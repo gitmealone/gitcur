@@ -7,12 +7,25 @@ Modernizr
 media query
 fix the error
 how to get to write "r"
+<<<<<<< HEAD
+Is it the a?.
+We will see!!
+	-a for start
+	esc-:wq to leave
+=======
 -modified in master:
 a to write
 esc/:wq to save and leave
 
 -modified in vim branch:
 this is a bit of a pain
+<<<<<<< HEAD
 -now in master branch:
 	-modified .added. commited in master b
 
+=======
+>>>>>>> master
+** ah, see changes in file but says (>>> master...)
+modified now in vim branch added and committed
+done now*<
+>>>>>>> vim
